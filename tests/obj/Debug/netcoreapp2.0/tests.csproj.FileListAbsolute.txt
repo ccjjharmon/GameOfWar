@@ -1,0 +1,17 @@
+D:\other code projects\cardgame-war\tests\obj\Debug\netcoreapp2.0\tests.csprojResolveAssemblyReference.cache
+D:\other code projects\cardgame-war\tests\obj\Debug\netcoreapp2.0\tests.csproj.CoreCompileInputs.cache
+D:\other code projects\cardgame-war\tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfoInputs.cache
+D:\other code projects\cardgame-war\tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfo.cs
+D:\other code projects\cardgame-war\tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\other code projects\cardgame-war\tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\other code projects\cardgame-war\tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\other code projects\cardgame-war\tests\bin\Debug\netcoreapp2.0\tests.deps.json
+D:\other code projects\cardgame-war\tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.json
+D:\other code projects\cardgame-war\tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.dev.json
+D:\other code projects\cardgame-war\tests\bin\Debug\netcoreapp2.0\tests.dll
+D:\other code projects\cardgame-war\tests\bin\Debug\netcoreapp2.0\tests.pdb
+D:\other code projects\cardgame-war\tests\bin\Debug\netcoreapp2.0\core.dll
+D:\other code projects\cardgame-war\tests\bin\Debug\netcoreapp2.0\core.pdb
+D:\other code projects\cardgame-war\tests\obj\Debug\netcoreapp2.0\tests.csproj.CopyComplete
+D:\other code projects\cardgame-war\tests\obj\Debug\netcoreapp2.0\tests.dll
+D:\other code projects\cardgame-war\tests\obj\Debug\netcoreapp2.0\tests.pdb

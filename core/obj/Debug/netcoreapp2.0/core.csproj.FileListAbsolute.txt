@@ -1,0 +1,11 @@
+D:\other code projects\cardgame-war\core\obj\Debug\netcoreapp2.0\core.csproj.CoreCompileInputs.cache
+D:\other code projects\cardgame-war\core\obj\Debug\netcoreapp2.0\core.AssemblyInfoInputs.cache
+D:\other code projects\cardgame-war\core\obj\Debug\netcoreapp2.0\core.AssemblyInfo.cs
+D:\other code projects\cardgame-war\core\bin\Debug\netcoreapp2.0\core.deps.json
+D:\other code projects\cardgame-war\core\bin\Debug\netcoreapp2.0\core.runtimeconfig.json
+D:\other code projects\cardgame-war\core\bin\Debug\netcoreapp2.0\core.runtimeconfig.dev.json
+D:\other code projects\cardgame-war\core\bin\Debug\netcoreapp2.0\core.dll
+D:\other code projects\cardgame-war\core\bin\Debug\netcoreapp2.0\core.pdb
+D:\other code projects\cardgame-war\core\obj\Debug\netcoreapp2.0\core.dll
+D:\other code projects\cardgame-war\core\obj\Debug\netcoreapp2.0\core.pdb
+D:\other code projects\cardgame-war\core\obj\Debug\netcoreapp2.0\core.csprojResolveAssemblyReference.cache
